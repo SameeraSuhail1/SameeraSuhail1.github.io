@@ -1,6 +1,7 @@
 ---
 title: "Credit Card Users' Behavioral Segmentation"
 date: 2019-08-31
+tags: [Clustering]
 excerpt: "Data Science, K Means"
 ---
 
@@ -11,4 +12,4 @@ Data pre-processing involved appropriate handling of missing values and outliers
 The original 18 of behavioral variables were used to derive intelligent Key Performance Indicators (KPIs) in order to build an enriched customer profile. The KPIs were then explored to gain some insight on the customer behavioral patterns. Factor analysis was used for dimension reduction 
 to arrive at 8 underlying factors. The number of factors were decided using the Kaiser test and scree plots. The reduced factors were used to cluster similar credit card users into segments using K-means. 
 
-[link](https://github.com/SameeraSuhail1/Customer-Segmentation)
+The R code and the final report with results can be found [here](https://github.com/SameeraSuhail1/Customer-Segmentation)
