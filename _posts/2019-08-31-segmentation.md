@@ -1,7 +1,6 @@
 ---
 title: "Credit Card Users' Behavioral Segmentation"
 date: 2019-08-31
-tags: [segmentation, k means, data science]
 excerpt: "Data Science, K Means"
 ---
 
