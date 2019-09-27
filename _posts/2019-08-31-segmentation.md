@@ -1,8 +1,5 @@
 ---
 title: "Credit Card Users' Behavioral Segmentation"
-date: 2019-08-31
-tags: [Clustering]
-excerpt: "Data Science, K Means"
 ---
 
 The aim of the following case was to do customer segmentation in order to develop a marketing strategy.
