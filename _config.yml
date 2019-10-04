@@ -20,7 +20,7 @@ title                    : "Sameera Suhail"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sameera Suhail"
-description              : "Data Science Portfolio"
+description              : "Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Sameera Suhail"
   avatar           : "/images/Sameera-photo-bio.jpg"
-  bio              : "Data Science Portfolio"
+  bio              : "Portfolio"
   location         : "Melbourne, VIC"
   email            :
   links:
