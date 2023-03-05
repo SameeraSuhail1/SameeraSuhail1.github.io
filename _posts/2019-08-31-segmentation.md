@@ -15,4 +15,5 @@ Here is a scree plot that let us decide the number of factors to be used.
           
 <img src="{{ site.url }}{{ site.baseurl }}/images/segmentation/scree.jpg" alt="Scree Plot">
 
-The R code and the final report with results can be found [here](https://github.com/SameeraSuhail1/Customer-Segmentation).  Directly download the final report with complete analysis and results [here](https://github.com/SameeraSuhail1/Customer-Segmentation/raw/master/final-output.xlsx)
+The R code and the final report with results can be found [here](https://github.com/SameeraSuhail1/Customer-Segmentation).  
+Directly download the final report with complete analysis and results [here](https://github.com/SameeraSuhail1/Customer-Segmentation/raw/master/final-output.xlsx).
