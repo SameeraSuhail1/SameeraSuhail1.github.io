@@ -97,7 +97,7 @@ Based on this observation, these houses can be grouped into undervalued
 and overvalued.The map shows the price residuals; the ones with most
 negative residuals are undervalued and are a good deals for
 home-seekers.The ones with most positive residuals are overvalued and
-cost more than what the model predicts. 
+cost more than what the model predicts.    
 
 
 <!--html_preserve-->
